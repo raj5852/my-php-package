@@ -1,0 +1,15 @@
+{
+    "name": "raj/mypack",
+    "autoload": {
+        "psr-4": {
+            "Mypack\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Raj",
+            "email": "rajkumer2001@gmail.com"
+        }
+    ],
+    "require": {}
+}
