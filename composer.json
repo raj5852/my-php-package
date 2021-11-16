@@ -1,5 +1,5 @@
 {
-    "name": "raj/mypack",
+    "name": "mydemo-project/Raj",
     "autoload": {
         "psr-4": {
             "Mypack\\": "src"
